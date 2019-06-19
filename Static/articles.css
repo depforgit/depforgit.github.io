@@ -1,6 +1,6 @@
 @font-face{
     font-family: Roboto;
-    src: url("/Roboto.ttf");
+    src: url("Roboto.ttf");
 }
 body{
     font-size: 25px;
